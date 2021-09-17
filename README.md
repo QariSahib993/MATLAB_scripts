@@ -7,4 +7,6 @@ if you need any help contact me on following
 shakeeljan993@gmail.com
 # MATLAB_scripts
 Important Scripts of MATLAB for image Processing
-Uploading Conquerors Will.mp4…
+
+https://user-images.githubusercontent.com/90522622/133819371-7c7fe77e-539a-4178-9921-aa6b2a74d13c.mp4
+
